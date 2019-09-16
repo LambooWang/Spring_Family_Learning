@@ -1,25 +1,25 @@
 # 玩转Spring全家桶
 
-## 初始Spring
+## 一.初始Spring
 
-## 数据操作
+## 二.数据操作
 
-### JDBC必知必会
+### 1.JDBC必知必会
 
-### O/R Mapping实践
+### 2.O/R Mapping实践
 
-### NoSQL实践
+### 3.NoSQL实践
 
-### 数据访问进阶
+### 4.数据访问进阶
 
-## Web开发 
+## 二.Web开发 
 
-### Spring MVC
+### 1.Spring MVC
 
-### Web 开发进阶
+### 2.Web 开发进阶
 
-### 访问Web资源
+### 3.访问Web资源
 
-## Spring Boot
+## 三.Spring Boot
 
-## Spring Cloud
+## 四.Spring Cloud
